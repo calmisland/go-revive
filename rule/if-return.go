@@ -5,7 +5,7 @@ import (
 	"go/token"
 	"strings"
 
-	"github.com/mgechev/revive/lint"
+	"github.com/calmisland/go-revive/lint"
 )
 
 // IfReturnRule lints given else constructs.

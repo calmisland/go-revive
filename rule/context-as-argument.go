@@ -3,7 +3,7 @@ package rule
 import (
 	"go/ast"
 
-	"github.com/mgechev/revive/lint"
+	"github.com/calmisland/go-revive/lint"
 )
 
 // ContextAsArgumentRule lints given else constructs.

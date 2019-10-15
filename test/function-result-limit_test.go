@@ -3,8 +3,8 @@ package test
 import (
 	"testing"
 
-	"github.com/mgechev/revive/lint"
-	"github.com/mgechev/revive/rule"
+	"github.com/calmisland/go-revive/lint"
+	"github.com/calmisland/go-revive/rule"
 )
 
 func TestFunctionResultsLimit(t *testing.T) {

@@ -1,4 +1,4 @@
-module github.com/mgechev/revive
+module github.com/calmisland/go-revive
 
 go 1.12
 

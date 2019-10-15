@@ -3,7 +3,7 @@ package test
 import (
 	"testing"
 
-	"github.com/mgechev/revive/rule"
+	"github.com/calmisland/go-revive/rule"
 )
 
 func TestWaitGroupByValue(t *testing.T) {

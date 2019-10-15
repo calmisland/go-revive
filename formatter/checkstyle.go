@@ -3,7 +3,7 @@ package formatter
 import (
 	"bytes"
 	"encoding/xml"
-	"github.com/mgechev/revive/lint"
+	"github.com/calmisland/go-revive/lint"
 	plainTemplate "text/template"
 )
 
